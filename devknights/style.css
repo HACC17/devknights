@@ -1,0 +1,26 @@
+h2{
+	text-align: center;
+}
+
+#page1{
+	border: solid;
+	padding: 10px 10px 25px 22px;
+}
+
+#userInfo{
+	margin-bottom: 40px;
+}
+
+#firstSubmitBtn{
+	margin-top: 10px;
+}
+
+input[type=text]{
+	width: ;
+    padding: 12px 20px;
+    margin: -5px 8px 0px 0px;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+}
